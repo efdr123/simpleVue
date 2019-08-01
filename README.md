@@ -1,4 +1,4 @@
-# simplevue-ts
+# simplevue
 
 ## Project setup
 ```
